@@ -6,12 +6,13 @@ This organization is owned and maintained by the [GitHub Security Lab](https://s
 
 ## Why has my repository been forked?
 
-First of all, congratulations! your project made it to the top most critical OSS projects according to the [OpenSSF Criticality Score](https://github.com/ossf/criticality_score).
-At GitHub Security Lab, we are commited to help improve the security of OSS we all rely on, and thats why we forked your project. We run automatic security scans and manual triaging that will help us identify and report vulnerabilities in your project.
+First of all, congratulations! Your project made it to the list of projects that are audited by the Security Lab.
+At GitHub Security Lab, we are commited to help improve the security of OSS we all rely on. We do that for free, 
+and for all OSS, not only the ones used by GitHub. That's why we forked your project: We run automatic security scans and manual triaging that will help us identify and report vulnerabilities in your project, and collaborate with you to fix them.
 
 ## Can I opt-out?
 
-Yes, if this is creating any inconveniences for you or your org, or you just want to opt-out from this program, please send us an email to securitylab@github.com and we will promptly remove the fork and excude your project from our lists.
+Yes, if this is creating any inconveniences for you or your org, or you just want to opt-out from this program, please send us an email at securitylab@github.com and we will promptly remove the fork(s) and exclude your project(s) from our list of projects we want to help and contribute to.
 
 ## How can I verify that this organization is owned by GitHub?
 
