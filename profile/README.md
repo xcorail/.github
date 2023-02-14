@@ -15,4 +15,4 @@ Yes, if this is creating any inconveniences for you or your org, or you just wan
 
 ## How can I verify that this organization is owned by GitHub?
 
-Please visit the [Organization's `People`](https://github.com/orgs/SecurityLab-CodeAnalysis/people) and check that all members have the `STAFF` badge on their profile pages.
+Please visit the [Organization's `People`](https://github.com/orgs/GitHubSecurityLab-CodeAnalysis/people) and check that all members have the `STAFF` badge on their profile pages.
